@@ -67,6 +67,6 @@
 3. Spring Data/ORM [JPA eg.](https://spring.io/guides/gs/accessing-data-jpa/), try using MySQL database server.
   [MySQL - download](https://dev.mysql.com/downloads/mysql/)
 4. [Tomcat - download](https://tomcat.apache.org/download-90.cgi)
-
+5. SOAP webservice example
 ## Session #8
  AWS
