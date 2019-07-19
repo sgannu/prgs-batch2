@@ -27,7 +27,8 @@ hs_err_pid*
 **/bin
 **/target
 **/build
-**/.gradle
+**/.gradle/
+.gradle/
 **/.settings
 **/.classpath
 **/chromedriver
