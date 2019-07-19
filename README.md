@@ -70,3 +70,6 @@
 5. SOAP webservice example
 ## Session #8
  AWS
+
+
+Test Merge Conflict
