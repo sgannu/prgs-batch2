@@ -72,4 +72,4 @@
 ## Session #8
 1. [Actuator](https://www.baeldung.com/spring-boot-actuators)
 2. AWS
-
+  Static web app on S3: https://aws.amazon.com/getting-started/projects/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/module-1/
