@@ -68,9 +68,8 @@
   [MySQL - download](https://dev.mysql.com/downloads/mysql/)
 4. [Tomcat - download](https://tomcat.apache.org/download-90.cgi)
 5. SOAP webservice example
+
 ## Session #8
- AWS
+1. [Actuator](https://www.baeldung.com/spring-boot-actuators)
+2. AWS
 
-
-This is master
-Test Merge Conflict
