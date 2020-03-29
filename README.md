@@ -30,7 +30,7 @@
 2. Springboot - Microservice [here](https://spring.io/guides/gs/rest-service/)
 3. Server side MVC vs Client side MVC
 4. Springboot - static Web application (client)
-5. Consuming micro service from static web application
+5. Consuming micro service from static web application [here](https://spring.io/guides/gs/consuming-rest-jquery/)
 
 #### Assignments:
 1. Create easyShop products micro service and build client to display the products on demand.
